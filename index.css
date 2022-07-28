@@ -94,13 +94,13 @@ header {
 }
 
 .tag.green {
-    color: green;
+    color: rgb(3, 185, 3);
 }
 
 .tag.orange {
-    color: orange;
+    color: rgb(228, 224, 1);
 }
 
 .tag.red {
-    color: red;
+    color: rgb(255, 109, 109);
 }
